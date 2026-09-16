@@ -5,7 +5,24 @@
       "displayName": "*",
       "color": "#91b8d4",
       "bgColor": "#eaf7f0",
-      "avatar": null
+      "avatar": null,
+      "checklistFields": [
+        {
+          "key": "medication",
+          "label": "약",
+          "icon": "💊"
+        },
+        {
+          "key": "outing",
+          "label": "외출/운동",
+          "icon": "🚶"
+        },
+        {
+          "key": "cleaning",
+          "label": "청소",
+          "icon": "🧹"
+        }
+      ]
     }
   ]
 }
