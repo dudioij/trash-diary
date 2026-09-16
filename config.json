@@ -28,6 +28,11 @@
           "key": "cleaning",
           "label": "청소",
           "icon": "🧹"
+        },
+        {
+          "key": "밥-먹기",
+          "label": "밥 먹기",
+          "icon": "🍚"
         }
       ]
     }
