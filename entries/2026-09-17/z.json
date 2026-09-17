@@ -18,7 +18,15 @@
       "y"
     ]
   },
-  "comments": [],
+  "comments": [
+    {
+      "id": "7e371e5a-3518-411c-b6fb-2f900de5bb54",
+      "author": "y",
+      "text": "진로변경하자",
+      "image": null,
+      "createdAt": "2026-09-17T14:15:25.009Z"
+    }
+  ],
   "createdAt": "2026-09-17T04:04:53.367Z",
-  "updatedAt": "2026-09-17T14:07:18.545Z"
+  "updatedAt": "2026-09-17T14:15:25.010Z"
 }
