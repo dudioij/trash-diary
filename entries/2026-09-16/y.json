@@ -12,7 +12,11 @@
     "cleaning": false,
     "밥-먹기": true
   },
-  "reactions": {},
+  "reactions": {
+    "🍀": [
+      "z"
+    ]
+  },
   "comments": [
     {
       "id": "7f61fa75-869d-4ca6-a91c-c5e08f8757d8",
@@ -23,5 +27,5 @@
     }
   ],
   "createdAt": "2026-09-16T14:56:50.333Z",
-  "updatedAt": "2026-09-17T02:07:48.106Z"
+  "updatedAt": "2026-09-17T02:07:57.380Z"
 }
