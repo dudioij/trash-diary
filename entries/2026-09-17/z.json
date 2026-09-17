@@ -13,8 +13,12 @@
     "cleaning": false,
     "delivery": false
   },
-  "reactions": {},
+  "reactions": {
+    "😢": [
+      "y"
+    ]
+  },
   "comments": [],
   "createdAt": "2026-09-17T04:04:53.367Z",
-  "updatedAt": "2026-09-17T04:04:55.155Z"
+  "updatedAt": "2026-09-17T14:07:18.545Z"
 }
