@@ -12,7 +12,15 @@
     "delivery": false
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "15ddae03-976a-47e5-a1f2-3b8014af5d37",
+      "author": "y",
+      "text": "우우웃 내가 71억 벌어다줄게 내가 할수있는거라면 뭐든 해주고싶어",
+      "image": null,
+      "createdAt": "2026-09-22T14:15:56.907Z"
+    }
+  ],
   "createdAt": "2026-09-19T10:59:59.199Z",
-  "updatedAt": "2026-09-19T11:00:01.291Z"
+  "updatedAt": "2026-09-22T14:15:56.907Z"
 }
